@@ -11,8 +11,11 @@ Mobile app Developer with a knack for teaching other programming
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/nihel-sliti-0181041a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nihel-sliti" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nihelsliti6257" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nihelsliti6257" height="30" width="40" /></a>
-<a href="https://youtube.com/@nihelsliti9511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nihelsliti9511" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nihel-sliti-0181041a9" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://facebook.com/nihel-sliti" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30" width="30" /></a>
+<a href="https://www.instagram.com/nihelsliti6257" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
+<a href="https://youtube.com/@nihelsliti9511" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
 </p>
 
+## 📄 CV
+You can view my CV [here](https://github.com/nihel-sliti/nihel-sliti/blob/main/Nihel%20Naima%20sliti%20(1).pdf).
