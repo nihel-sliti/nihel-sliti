@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Nihel
 
-<!--
-**nihel-sliti/nihel-sliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile app Developer with a knack for teaching other programming
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=nihel-sliti&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning FLUTTER Development
+- 💬 Ask me about **anything**
+- 📫 How to reach me **[slitinihel023@gmail.com](mailto:slitinihel023@gmail.com)**
+- ⚡ Fun fact **always learning**
+
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/nihel-sliti-0181041a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nihel-sliti" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nihelsliti6257" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nihelsliti6257" height="30" width="40" /></a>
+<a href="https://youtube.com/@nihelsliti9511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nihelsliti9511" height="30" width="40" /></a>
+</p>
+
